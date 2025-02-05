@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c53cc86699874e49a579126421dcec5, type: 3}
+  m_Name: BoardItemVisualsData
+  m_EditorClassIdentifier: 
+  _boardItemVisualsData:
+  - Type: 0
+    Definition: 0
+    BoardItemImage: {fileID: 21300000, guid: b9bff92b707810848aaf650b4acf31e3, type: 3}
+  - Type: 1
+    Definition: 0
+    BoardItemImage: {fileID: 21300000, guid: 72f0d65e12dd57a41823a6d3bb2ee8c0, type: 3}
+  - Type: 2
+    Definition: 0
+    BoardItemImage: {fileID: 21300000, guid: e484215929672954e858a1e7088f3f8a, type: 3}
+  - Type: 3
+    Definition: 0
+    BoardItemImage: {fileID: 21300000, guid: 42a37edcbd2a90848845839a1209d97e, type: 3}
+  - Type: 4
+    Definition: 0
+    BoardItemImage: {fileID: 21300000, guid: 45a90b93071d6bb49b4b69c5ac5c6f3b, type: 3}

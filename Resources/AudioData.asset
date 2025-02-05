@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d2a76d477f237348a02958c14e6c308, type: 3}
+  m_Name: AudioData
+  m_EditorClassIdentifier: 
+  SFXGroup: {fileID: -6966882975742903700, guid: c886297754c4bed4ea97d7af0939006c, type: 2}
+  SFXAudio:
+  - AudioName: 0
+    Clip: {fileID: 8300000, guid: 7d72d4d3490020a42ae58a608d853691, type: 3}
+    Source: {fileID: 0}
+    AudioMixerGrp: {fileID: 0}
+  - AudioName: 1
+    Clip: {fileID: 8300000, guid: 7cd365adc3ae0c04a8a46b2b26b21cd6, type: 3}
+    Source: {fileID: 0}
+    AudioMixerGrp: {fileID: 0}
+  - AudioName: 2
+    Clip: {fileID: 8300000, guid: d81ad867396c66b4bbdff437e5f6d296, type: 3}
+    Source: {fileID: 0}
+    AudioMixerGrp: {fileID: 0}
+  - AudioName: 3
+    Clip: {fileID: 8300000, guid: 0355ad2af256e1749bd69d688cbe6368, type: 3}
+    Source: {fileID: 0}
+    AudioMixerGrp: {fileID: 0}

@@ -1,0 +1,46 @@
+{
+    "boardData": {
+        "boardWidth": 9,
+        "boardHeight": 9,
+        "board": [
+            "red","yellow","red","red","red","red","red","red","red",
+            "red","red","red","red","blue","red","red","red","red",
+            "yellow","blue","red","red","blue","red","red","red","red",
+            "o_duck","red","blue","purple","red","red","blue","blue","blue",
+            "red","blue","red","red","red","yellow","yellow","o_balloon","red",
+            "blue","red","red","red","red","o_balloon","red","blue","red",
+            "yellow","red","blue","red","blue","yellow","red","o_duck","blue",
+            "yellow","red","blue","red","blue","blue","purple","purple","purple",
+            "o_balloon","red","red","yellow","red","blue","red","red","red"
+        ]
+    },
+    "levelTarget": {
+        "targets": [
+            {
+                "type": "blue",
+                "amount": 40
+            },
+            {
+                "type": "red",
+                "amount": 80
+            },
+            {
+                "type": "purple",
+                "amount": 40
+            },
+            {
+                "type": "duck",
+                "amount": 2
+            },
+            {
+                "type": "balloon",
+                "amount": 2
+            }
+
+        ]
+    },
+    "spawnerData":
+    {
+        "moveLimit": 30
+    }
+}
